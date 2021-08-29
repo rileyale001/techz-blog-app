@@ -1,4 +1,3 @@
-
 # 14 Model-View-Controller (MVC): Tech Blog
 
 ## Your Task
@@ -53,6 +52,6 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
 
-## links
+## Links
+
 [Github](https://github.com/rileyale/techz-blog-app.git)
-[Screenshot](/snip14mvc.PNG)

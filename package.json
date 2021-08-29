@@ -1,0 +1,46 @@
+{
+  "name": "techz-blog-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js",
+    "seed": "node seeds/index.js",
+    "watch": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Alex Riley",
+  "bugs": {
+    "url": "git+https://github.com/rileyale/techz-blog-app.git"
+  },
+  "homepage": "https://github.com/rileyale/techz-blog-app.git",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "bcrypt": "^5.0.0",
+    "bluebird": "^3.7.2",
+    "connect-session-sequelize": "^7.0.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "helpers": "^0.0.6",
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.12",
+    "require": "^2.4.20",
+    "sequelize": "^6.6.5",
+    "session": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-prettier": "^6.15.0",
+    "prettier": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rileyale001/techz-blog-app.git"
+  }
+}
