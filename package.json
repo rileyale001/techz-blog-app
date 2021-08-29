@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/rileyale001/techz-blog-app/issues"
   },
-  "homepage": "https://github.com/rileyale001/techz-blog-app#readme"
+  "homepage": "https://github.com/rileyale001/techz-blog-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "yarn": "^1.22.11"
+  }
 }
