@@ -14,7 +14,7 @@
   "bugs": {
     "url": "git+https://github.com/rileyale/techz-blog-app.git"
   },
-  "homepage": "https://github.com/rileyale/techz-blog-app.git",
+  "homepage": "https://git.heroku.com/sheltered-refuge-10788.git",
   "license": "ISC",
   "dependencies": {
     "babel": "^6.23.0",
