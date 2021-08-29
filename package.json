@@ -34,7 +34,8 @@
     "nodemon": "^2.0.12",
     "require": "^2.4.20",
     "sequelize": "^6.6.5",
-    "session": "^0.1.0"
+    "session": "^0.1.0",
+    "yarn": "^1.22.11"
   },
   "devDependencies": {
     "eslint": "^7.12.1",
