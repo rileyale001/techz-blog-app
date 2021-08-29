@@ -17,6 +17,10 @@
   "bugs": {
     "url": "https://github.com/rileyale001/techz-blog-app/issues"
   },
+  "engines": {
+    "node": "16.2.0",
+    "npm": "7.13.0"
+  },
   "homepage": "https://github.com/rileyale001/techz-blog-app#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
